@@ -1,0 +1,16 @@
+{
+  "name": "electron-piano-audio",
+  "version": "1.0.0",
+  "description": "A package to create sound in Electron easily.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwpuppire/electron-audio"
+  },
+  "author": "MWPuppire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwpuppire/electron-audio/issues"
+  },
+  "homepage": "https://github.com/mwpuppire/electron-audio#readme"
+}
