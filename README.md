@@ -1,18 +1,18 @@
-## Electron Audio
+## Electron Piano Audio
 
-An NPM package to create audio in Electron easily.
+An NPM package to create piano audio in Electron easily.
 
 ### Usage
 
 ```JavaScript
-var audio = require("electron-audio")
+var audio = require("electron-piano-audio")
 audio("...") // Notes are decided by the characters inputted, going from the keyboard positions (1 is lowest, M is highest). All notes are alphanumerical.
 ```
 
 ### Installation
 
 ```sh
-npm install electron-audio
+npm install electron-piano-audio
 ```
 
 ### License
